@@ -29,7 +29,7 @@ Replace the `println!` macro with `print!`. What happens?
 
 fn main() {
     print!("I am Harshavardhan");
-    print!("Rustacean");
+    print!("Rust is my favourite programming language");
     print!("I love writting code in rust")
 }
 
