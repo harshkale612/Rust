@@ -13,5 +13,6 @@ cargo build (b)
 cargo build --release
 cargo clean
 cargo run (r)
+cargo run --quite
 cargo check
 */
