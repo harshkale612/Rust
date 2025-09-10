@@ -1,6 +1,7 @@
 fn main() {
     let apples = 21;
     let oranges = 12;
+    let _fruit = apples + oranges;
     let is_admin = true;
     let user = "Harsh";
 
